@@ -1,0 +1,14 @@
+#ignore environment variable file
+
+.env 
+
+node_modules/
+
+# node.js dependenceies 
+*.log
+
+#logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
